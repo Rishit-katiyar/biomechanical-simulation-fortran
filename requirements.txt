@@ -1,0 +1,2 @@
+# Fortran Compiler
+gfortran>=7.0

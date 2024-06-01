@@ -47,7 +47,7 @@ To get started with the biomechanical simulation project, follow these steps:
 
 3. **Compile the Fortran Code:**
    ```bash
-   gfortran main.f90 -o biomechanical_simulation
+   gfortran biomechanical_simulation.f90 -o biomechanical_simulation
    ```
 
 ## Usage
